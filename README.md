@@ -12,4 +12,4 @@ AWS
 
 y probamos un ejemplo
 
-![](img/aws.png)
+![](img/aws.PNG)
